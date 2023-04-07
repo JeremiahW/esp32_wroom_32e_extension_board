@@ -11,3 +11,5 @@ CH340C USB to serial chip.
 
 
 PAY ATTENTION! SCHEMATIC DIAGRAM HAS NOT BEEN VERIFIED!
+
+Thanks for the helping from "OSHW Hub"
